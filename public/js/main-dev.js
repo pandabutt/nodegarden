@@ -83,7 +83,7 @@
     this.nightmode = false;
 
     window.addEventListener('mousedown', function (e) {
-      mouseNode.m = 15;
+      mouseNode.m = 150;
     });
 
     window.addEventListener('mouseup', function (e) {
